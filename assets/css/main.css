@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,300,200");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,300,200");
 
 /*
 	Halcyonic by HTML5 UP
@@ -85,7 +85,7 @@ input, select, textarea {
 		background: #D4D9DD url("images/bg03.jpg");
 		color: #474f51;
 		font-size: 13.5pt;
-		font-family:  'Poppins-Medium'; 
+		font-family:  'Montserrat'; 
 		line-height: 1.75em;
 		font-weight: 300;
 	}
@@ -93,7 +93,7 @@ input, select, textarea {
 	input, textarea, select {
 		color: #474f51;
 		font-size: 13.5pt;
-		font-family: 'Poppins-Medium'; 
+		font-family: 'Montserrat'; 
 		line-height: 1.85em;
 		font-weight: 300;
 	}
@@ -1542,7 +1542,7 @@ input, select, textarea {
 		}
 
 			#header nav a {
-				color: #fff;
+				color: #c6c8c8;
 				text-decoration: none;
 				font-size: 1.4em;
 				margin-left: 60px;
